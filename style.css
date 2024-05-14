@@ -1,0 +1,19 @@
+.box1{
+    width: 350px;
+    height: 160px;
+    color: #777777;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: blue;
+}
+.box2{
+    margin: 50px;
+    width: 350px;
+    height: 160px;
+    color:#FF0000;
+    text-align: center;
+    text-align: justify;
+}
+
